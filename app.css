@@ -1,0 +1,35 @@
+body {
+  background-color: #D2A04F;
+  margin: 0;
+  padding: 0;
+}
+.banner{
+    background-color:#8B4000;
+    text-align: center;
+    padding: 70px;
+}
+#links {
+    text-align: center; 
+    padding: 20px 0;
+    font-family: Arial, sans-serif;
+} 
+  #links a {
+    margin: 0 20px; 
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+  }
+  h3 {
+    color: darkred;
+    font-weight: 400;
+  }
+  p {
+    font-size: larger;
+  }
+  
+  
+  
+
+  
+  
